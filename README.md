@@ -31,7 +31,7 @@ Com todos os elementos já inseridos no HTML, iniciou-se a transferência dos te
 Por fim, foram adicionadas algumas linhas de estilo para garantir uma página responsiva. Isso assegura que, em telas de diferentes proporções, não ocorram problemas de disposição dos elementos. Vale ressaltar que não se trata de uma adequação minuciosa, uma vez que o projeto deve ser simples. Foram adicionados apenas os comandos mínimos necessários para evitar a poluição do arquivo HTML. Não foi especificado no formulário se era permitido usar um arquivo CSS, o que poderia proporcionar ainda mais organização ao código.
 </p>
 
-## COMO COMPILAR E OBTER ESTE PROJETO
+## COMO COMPILAR ESTE PROJETO
 
 <p style = "text-align = justify">
 Para compilar, basta abrir o explorador de arquivos e clicar no arquivo "presentation.html". Alternativamente, é possível utilizar os comandos do arquivo de script presente no projeto:
